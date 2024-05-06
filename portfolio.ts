@@ -12,34 +12,34 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Ali Naqi",
-  title: "Hi all, I'm Ali Naqi",
+  name: "MUHAMMAD ZUHAIB",
+  title: "Hi all, I'm Muhammad Zuhaib",
   description:
     "I am a dedicated Full Stack web developer specializing in Python, particularly within the Frappe ERPNext ecosystem. With a robust background in developing comprehensive web applications, I have adeptly utilized Python, Frappe, ERPNext, and various cloud technologies to deliver scalable and efficient solutions. My passion lies in continuously exploring and adopting new technologies, enhancing my skill set, and integrating innovative solutions into projects. Renowned for my self-motivation and diligence, I thrive in collaborative team environments and am always eager to expand my knowledge and contribute to impactful initiatives.",
-  resumeLink: "https://drive.google.com/file/d/1Jce_-HLTTU62_0D50DTO4_W3kkO85tC3/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/10gh6sLfiq4l8YPu0yk7toFeBhRjQE59a/view?usp=sharing",
 };
 
 export const openSource = {
-  githubUserName: "1hanzla100",
+  githubUserName: "Muhammad-Zuhaib13",
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:baltialinaqi@gmail.com",
-  linkedin: "https://www.linkedin.com/in/ali-naqi-109a00184/",
-  github: "https://github.com/AliNaqi2020",
-  instagram: "https://www.instagram.com/alinaqii786/",
-  facebook: "https://www.facebook.com/profile.php?id=100013735652150&mibextid=JRoKGi",
+  email: "mailto:muhammadzohaib578@gmail.com",
+  linkedin: "https://www.linkedin.com/in/muhammad-zuhaib-a15672266/",
+  github: "https://github.com/Muhammad-Zuhaib13",
+  // instagram: "https://www.instagram.com/alinaqii786/",
+  // facebook: "https://www.facebook.com/profile.php?id=100013735652150&mibextid=JRoKGi",
   // twitter: 'https://twitter.com/1hanzla100',
 };
 
 export const skillsSection: SkillsSectionType = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CRAZY FRONTEND DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   data: [
     {
-      title: "Full Stack Development",
+      title: "Frontend Development",
       lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
         emoji("⚡ Developing custom apps and modules in Frappe Framework"),
@@ -112,9 +112,9 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: "University of Karachi",
-    subHeader: "Bachelor of Science in Computer Science",
-    duration: "December 2018 - December 2022",
+    schoolName: "ILMA UNIVERSITY",
+    subHeader: "Bachelor of Computer Science",
+    duration: "January 2018 - December 2022",
     desc: "",
     grade: "Grade A",
     descBullets: [],
@@ -192,18 +192,18 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Hanzla Tauqeer",
+  title: "Muhammad Zuhaib Portfolio",
   description: greetings.description,
-  author: "Hanzla Tauqeer",
+  author: "Muhammad Zuhaib",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
   url: "https://developer-portfolio-1hanzla100.vercel.app",
   keywords: [
-    "Hanzla",
-    "Hanzla Tauqeer",
-    "@1hanzla100",
-    "1hanzla100",
-    "Portfolio",
-    "Hanzla Portfolio ",
-    "Hanzla Tauqeer Portfolio",
+    "Frontend Developer",
+    "Muhammad Zuhaib",
+    "Zuhaib Portfolio",
+    "Zuhaib Nextjs",
+    "Zuhaib Reactjs",
+    "Zuhaib Fronted Developer",
+    "Zuhaib Frontend Developer Portfolio",
   ],
 };
