@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: "MUHAMMAD ZUHAIB",
   title: "Hi all, I'm Muhammad Zuhaib",
   description:
-    "I am a dedicated Full Stack web developer specializing in Python, particularly within the Frappe ERPNext ecosystem. With a robust background in developing comprehensive web applications, I have adeptly utilized Python, Frappe, ERPNext, and various cloud technologies to deliver scalable and efficient solutions. My passion lies in continuously exploring and adopting new technologies, enhancing my skill set, and integrating innovative solutions into projects. Renowned for my self-motivation and diligence, I thrive in collaborative team environments and am always eager to expand my knowledge and contribute to impactful initiatives.",
+    "Logical and results-driven Web Developer dedicated to building and optimizing user-focused websites for customers with various business objectives. Judicious and creative when crafting effective websites, apps and platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with calm and focused demeanor.",
   resumeLink: "https://drive.google.com/file/d/10gh6sLfiq4l8YPu0yk7toFeBhRjQE59a/view?usp=sharing",
 };
 
@@ -64,8 +64,7 @@ export const skillsSection: SkillsSectionType = {
         {
           skillName: "JavaScript",
           iconifyTag: "logos:javascript",
-        }
-        ,
+        },
         {
           skillName: "MariaDB",
           iconifyTag: "devicon:mariadb-wordmark",
